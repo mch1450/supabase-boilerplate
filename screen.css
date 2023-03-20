@@ -1,1 +1,14 @@
-/* Add screen styles below */
+#books {
+    border-collapse: collapse;
+}
+  
+#books td, #books th {
+    padding: 10px;
+}
+  
+#books th {
+    font-weight: bold;
+    text-align: left;
+    background-color: #8252ac;
+    color: white;
+}
